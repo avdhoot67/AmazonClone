@@ -1,12 +1,11 @@
-/*border-box-->the area of border and padding occpies the space inside content rather than
-outside*/
+
 :root{
     --maincolor : #0f1111;
 }
 *{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    border:border-box;
+    padding: 0;
 }
 
 .navbar{
