@@ -9,7 +9,7 @@
 
 ## Features
 <ul>
-  <li><strong>Responsive Navbar:</strong> A functional navigation bar using flexbox, including the Amazon logo, address section, search bar, language options, sign-in, orders, and cart.
+  <li><strong>Responsive Navbar:</strong> A navigation bar using flexbox, including the Amazon logo, address section, search bar, language options, sign-in, orders, and cart.
     <ul>
       <li>Added a dropdown in the search bar and language options.</li>
       <li>Implemented a datalist to suggest items based on input.</li>
